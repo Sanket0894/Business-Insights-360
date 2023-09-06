@@ -21,18 +21,27 @@ To thrive in the industry, The decision makers recognize the need to establish t
 
 ## Data Preview
 The company has manage to collect two database as gdb041 and gdb056 which provide the necessary data about the past history of transactions and the tables.As follows:
-- gdb041
-dim_customer
-dim_product
-dim_market
-fact_forecast_monthly
-fact_sales_monthly
+- ### gdb041
+ 
+  dim_customer
 
-- gdb056 
-freight_cost
-manufacturing_cost
-post_invoice_deductions
-pre_invoice_deductions
+  dim_product
+
+  dim_market
+
+  fact_forecast_monthly
+
+  fact_sales_monthly
+
+- ### gdb056
+ 
+  freight_cost
+
+  manufacturing_cost
+
+  post_invoice_deductions
+
+  pre_invoice_deductions
 
 ## Data Extraction
 As the database is MySQL in this project, we need to import the datasets from Mysql database to PowerBi by providing the Database access credential
