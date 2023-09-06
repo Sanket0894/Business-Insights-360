@@ -1,4 +1,7 @@
-
+# Business Insights 360
+An imaginary company called AtliQ Hardware is a consumer goods electronics company having operations in various countries. Their business is growing rapidly and they still rely on excel files for data analytics. Excel files are hard to consume and not effective in generating insights from large amount of data. Also due to the lack of effective analytics the company faced a major loss in Latin America.
+Senior executives of this company have decided to invest in a data analytics project and have assigned a team for this work.
+I have completed this project following the Codebasics Power BI course 
 ## Table content
 * [Need of Business Intelligence](#Need-of-Business-Intelligence)
 * [Data preview](Data-Preview)
@@ -33,13 +36,14 @@ pre_invoice_deductions
 ## Data Extraction
 As the database is MySQL in this project, we need to import the datasets from Mysql database to PowerBi by providing the Database access credential
 
-##Data Transformation
+## Data Transformation
 After extracting dataset we have do some preprossing and transformation to avoid the biasness towards results. In this project data transaction like removing duplicates, changing data types, grouping tables according to fact and dimensions etc operations done on the dataset.
 
 ## Data Modeling
 - Data modeling is a very crucial step for preparing reports.
 - Here is an example of the data model we have established in this project.
 - In the beginning, the model schema was a star schema, but as flat files such as market share or operational cost were added, the schema evolved into a snowflake schema.
+![]("C:\Users\sanke\Pictures\Screenshots\Screenshot 2023-09-05 232104.png")
 
 ## Dashboard Design
 Based on the initial mock up given the dashboard design finallized as follows:
