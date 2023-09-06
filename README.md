@@ -73,7 +73,8 @@ This view will help the end user to navigate through various views by clicking o
 
 ## Info 
 
-<img width="650" alt="Info" src="https://github.com/Sanket0894/Business-Insights-360/assets/131572641/fed7840d-a6bd-4ab9-b2a5-b0f1d7dcf224">
+<img width="675" alt="Screenshot 2023-09-06 225616" src="https://github.com/Sanket0894/Business-Insights-360/assets/131572641/ea8ff714-9db1-40ea-9903-91a6f3e09257">
+
 
 ## Finance View 
 
@@ -101,7 +102,7 @@ This view will help the end user to navigate through various views by clicking o
 
 
 
-For interactive report you can check out here: [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjI4MDc1NzMtZTQ4Ny00NWJkLTlkNmYtM2E5ZGEyYTI2NjM3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+For interactive report you can check out here: [Interactive Dashboard](https://www.novypro.com/project/business-insights-360-power-bi-12)
 
 ## Project Outcome
 This dashboard will provide the insights to the decision makers of AtliQ Hardware to take the necessary decision on the on going problem in the latin American region.
