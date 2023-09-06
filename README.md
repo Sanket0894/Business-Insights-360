@@ -43,7 +43,8 @@ After extracting dataset we have do some preprossing and transformation to avoid
 - Data modeling is a very crucial step for preparing reports.
 - Here is an example of the data model we have established in this project.
 - In the beginning, the model schema was a star schema, but as flat files such as market share or operational cost were added, the schema evolved into a snowflake schema.
-![]("C:\Users\sanke\Pictures\Screenshots\Screenshot 2023-09-05 232104.png")
+
+<img width="856" alt="Data model" src="https://github.com/Sanket0894/Business-Insights-360/assets/131572641/0b18d69b-6840-483e-aaca-393b267774ca">
 
 ## Dashboard Design
 Based on the initial mock up given the dashboard design finallized as follows:
