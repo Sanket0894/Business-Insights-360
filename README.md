@@ -100,8 +100,10 @@ This view will help the end user to navigate through various views by clicking o
 <img width="669" alt="support" src="https://github.com/Sanket0894/Business-Insights-360/assets/131572641/8d99c97d-13e5-4635-9d78-c79142c28ca2">
 
 
+
 For interactive report you can check out here: [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjI4MDc1NzMtZTQ4Ny00NWJkLTlkNmYtM2E5ZGEyYTI2NjM3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-## 
+## Project Outcome
+This dashboard will provide the insights to the decision makers of AtliQ Hardware to take the necessary decision on the on going problem in the latin American region.
 
 
