@@ -15,6 +15,7 @@ AltiQ Hardware is a rapidly growing global company specializing in computer hard
 - Retailers: Partnerships with major retailers like Croma and Amazon.
 - Direct: Online sales through our e-store and AltiQ executive.
 - Distributors: Collaborations with distributors such as Neptune in China.
+  
 Recently, AltiQ Hardware faced unexpected losses due to the expansion into the American market. These decisions were made based on surveys, intuition, and limited Excel analysis. In contrast, the competitors have dedicated analytics teams driving data-driven decisions.
 To thrive in the industry, The decision makers recognize the need to establish the analytics team. This team will empower AtilQ with data-driven insights and informed decision-making capabilities, ensuring them continued success.
 
